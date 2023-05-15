@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Inter;
+    src: url(../task-js-15/Inter-Regular.ttf)
+}
+
+
+body {
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#nnn {
+    display: none;
+}
+
+.layer {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue {
+    width: 212px;
+    height: 63px;
+    background: #1D9BF0;
+    border-radius: 20px;
+
+    border: none;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.white-box {
+    width: 448px;
+    height: 532px;
+    left: 496px;
+    top: 245px;
+    background: #ffffff;
+    border-radius: 20px;
+}
+
+.btn-black {
+    margin-top: 60px;
+    width: 331px;
+    height: 69px;
+    left: 554px;
+    top: 588px;
+
+    background: #000000;
+    border-radius: 100px;
+    color: #FFFFFF;
+    Font: Inter;
+    font-Weight: 700;
+    font-size: 20px;
+    Line-height: 24.2px;
+}
+
+.btn-white {
+    width: 331px;
+    height: 69px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    font-size: 20px;
+
+}
